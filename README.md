@@ -38,7 +38,6 @@ Now because I have created similar thing for company projects (not exactly same)
 - According to benchmark for financial document analysis, pageindex has great accuracy.
 - Benchmark results: https://github.com/VectifyAI/Mafin2.5-FinanceBench
 
-```html
 <img width="1013" height="612" alt="image" src="https://github.com/user-attachments/assets/c19ffde6-ef35-4b9c-a38a-0840396feeee" />
 
 #### 3. Now I am using chatgpts deep research to get more information on this
