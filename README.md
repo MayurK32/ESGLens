@@ -53,3 +53,7 @@ I want you to research and create a comparison report with all tradeoffs so that
 The project stack would be .Net primarily, angular and python if we need to use python only packages which are not available in .net
 
 ##### Chat - https://chatgpt.com/share/6a081830-a6a4-83ec-9310-d7cbefe6b5a1
+---
+### Decision
+
+I would argue that because ESGLens is domain specific and has higher accuracy but there is scalability issues but for our application we need to answer from attached documens itself so we wil put limit to number of pdfs attached. So after looking at accuracy I have decided to go ahead with pageindex.
