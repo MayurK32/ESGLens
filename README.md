@@ -51,3 +51,5 @@ I have experience with RAG, and I heard about PageIndex and accuracy that its gi
 I want you to research and create a comparison report with all tradeoffs so that i can take a decision to ahead with either of the option.
 
 The project stack would be .Net primarily, angular and python if we need to use python only packages which are not available in .net
+
+##### Chat - https://chatgpt.com/share/6a081830-a6a4-83ec-9310-d7cbefe6b5a1
