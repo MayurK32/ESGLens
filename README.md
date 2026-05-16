@@ -62,3 +62,19 @@ I would argue that because ESGLens is domain specific and has higher accuracy bu
 ### Exploring PageIndex Repo with help of claude code to learn all modules
 
 Before jumping to create class diagram for clean design I need to know how pageindex repo works, which api endpoint we need to call, not going in depth but taking overview so that i can go ahead with design.
+
+We need to create two endpoints for our usecase 1. /index and 2. /query
+
+### Now thinking on Class design
+
+Since I am learning LLD for interviews, I spend some time to create class diagram for version 1.
+
+Learned a mental model for approaching any design
+
+1. List all operations done by user and system, all the nouns will be classes
+2. Then list all verbs those verbs will act as methods
+3. Then map the relationship and create a diagram
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e9e48847-a3a1-42e4-869e-85437dffdf71" />
+
+
