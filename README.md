@@ -26,3 +26,4 @@ Now because I have created similar thing for company projects (not exactly same)
 ### Resources for this decision
 
 1. https://www.youtube.com/watch?v=nkbtOplq9jM
+-- While watching the video came to know that PageIndex builds a tree from document and then keep summarised content of each page as a node and it maintains parent child relationship. So context loss can be the issue, may be concluding earlier(not completed the video) but its thing which we cant ignore. From this tree it creates a json. and we need to send full json to LLM (High token cost) we can use techniques like TOON to reduce the same.
