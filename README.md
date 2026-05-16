@@ -57,3 +57,8 @@ The project stack would be .Net primarily, angular and python if we need to use 
 ### Decision
 
 I would argue that because ESGLens is domain specific and has higher accuracy but there is scalability issues but for our application we need to answer from attached documens itself so we wil put limit to number of pdfs attached. So after looking at accuracy I have decided to go ahead with pageindex.
+
+---
+### Exploring PageIndex Repo with help of claude code to learn all modules
+
+Before jumping to create class diagram for clean design I need to know how pageindex repo works, which api endpoint we need to call, not going in depth but taking overview so that i can go ahead with design.
